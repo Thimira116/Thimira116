@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Thimira Savinda</span></h1>
-<h3 align="center">💻 IT Undergraduate | Web Developer | Tech Enthusiast</h3>
+<h3 align="center">💻 IT Student | Web Developer | Tech Enthusiast</h3>
 
 ---
 
