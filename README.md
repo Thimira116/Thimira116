@@ -2,6 +2,10 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Thimira Savinda</span></h1>
 <h3 align="center">💻 IT Student | Web Developer | Tech Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thimira116&label=Profile%20Views&color=00BFFF&style=flat" alt="Thimira116" />
+</p>
+
 ---
 
 ### 🧠 About Me
