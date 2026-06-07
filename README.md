@@ -11,7 +11,7 @@
 ### 🧠 About Me
 - 🎓 I'm currently pursuing a **Higher National Diploma in Information Technology**
 - 🌱 Learning **React**, **Flutter**, **Wordpress** and **UI/UX Design**
-- 💡 Passionate about **Full-Stack Development** and **Modern Web Apps**
+- 💡 Passionate about **Full-Stack Development**, **Modern Web Apps** and **Quality Assurance**
 - ⚡ Fun fact: I love exploring **tech innovations** and **creative design ideas**
 
 ---
